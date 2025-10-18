@@ -30,6 +30,10 @@ when an obstacle is detected.
 
 ---
 
+## Circuit Diagram:
+ 
+![Circuit Diagram](diagram.png)
+
 ## Pin Mapping:
 
 | Component                  | ESP8266 Pin | Description                              |
@@ -68,11 +72,10 @@ when an obstacle is detected.
 5. Once the obstacle is cleared, forward control is re-enabled and LED returns to its previous state.
 
 ---
-## 🧑‍💻 Author
+## Author
 
-**Created by:** Roy Cuadra  
+**Created with Passion ❤ by:** Roy Cuadra  
 **Year:** 2025  
-**License:** MIT  
-
+ 
 ---
 
