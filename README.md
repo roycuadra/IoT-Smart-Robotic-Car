@@ -23,6 +23,11 @@ Watch the live demo here:
 -  **Persistent State** — LED toggle state is preserved even after clearing obstacles  
 
 ---
+## Disclaimer
+
+For educational and experimental use only. The creator is not responsible for damage, injury, or misuse. Always use the robot safely and in controlled environments.
+
+---
 
 ## Hardware Requirements:
 
