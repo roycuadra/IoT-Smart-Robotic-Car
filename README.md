@@ -6,6 +6,12 @@ ultrasonic collision avoidance, and a persistent LED indicator that blinks autom
 when an obstacle is detected.
 
 ---
+## Video Demonstration
+
+Watch the live demo here:  
+[ Video Demonstration](https://vt.tiktok.com/ZSUVUGb72/)  
+
+---
 
 ## Features:
 
